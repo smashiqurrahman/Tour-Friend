@@ -24,4 +24,4 @@
 
 ## Screenshots
 
-❮img src="screenshot/one.png" width="100" height="200"❯
+<p><img src="screenshot/one.png" width="300" height="500">      <img src="screenshot/two.png" width="300" height="500">     <img src="screenshot/three.png" width="300" height="500">      <img src="screenshot/four.png" width="300" height="500">      <img src="screenshot/five.png" width="300" height="500">      <img src="screenshot/six.png" width="300" height="500">      <img src="screenshot/seven.png" width="300" height="500">      <img src="screenshot/eight.png" width="300" height="500"></p>
