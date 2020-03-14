@@ -15,5 +15,9 @@
 
 ## Features
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/lifeoflikhon/expense-manager/blob/master/.github/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/lifeoflikhon/my-portfolio-site/issues/new).
+- Crating a tour and tour history available
+- Calculate tour expense to efficient the cost
+- Save moments
+- Weather of desired location
+- Get map support at anywhere
 
