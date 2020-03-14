@@ -24,8 +24,4 @@
 
 ## Screenshots
 
-<p align="center">
-  <a href="https://github.com/smashiqurrahman/Tour-Friend">
-    <img src="./one.png" alt="logo" width="72" height="72">
-  </a>
-</p>
+❮img src="screenshot/one.png" width="100" height="200"❯
